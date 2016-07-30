@@ -1,0 +1,7 @@
+log
+users
+__pycache__/
+.idea/
+dploy/
+*.pyc
+*.swp
